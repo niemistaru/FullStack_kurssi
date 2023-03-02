@@ -1,0 +1,14 @@
+{
+  "name": "ws4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "TN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
